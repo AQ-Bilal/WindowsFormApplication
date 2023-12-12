@@ -11,5 +11,10 @@ namespace WinFormsApp1
         {
             MessageBox.Show("Hello");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Doing Nothing");
+        }
     }
 }
